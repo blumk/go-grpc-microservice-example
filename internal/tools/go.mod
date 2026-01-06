@@ -5,7 +5,7 @@ go 1.25
 require (
 	github.com/bufbuild/buf v1.62.1
 	github.com/golangci/golangci-lint v1.64.8
-	github.com/google/yamlfmt v0.20.0
+	github.com/google/yamlfmt v0.21.0
 	github.com/grpc-ecosystem/grpc-health-probe v0.4.41
 	golang.org/x/vuln v1.1.4
 	google.golang.org/grpc/cmd/protoc-gen-go-grpc v1.5.1
@@ -284,4 +284,5 @@ require (
 	mvdan.cc/gofumpt v0.7.0 // indirect
 	mvdan.cc/unparam v0.0.0-20240528143540-8a5130ca722f // indirect
 	pluginrpc.com/pluginrpc v0.5.0 // indirect
+	sigs.k8s.io/yaml v1.6.0 // indirect
 )
