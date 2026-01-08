@@ -3,7 +3,7 @@ module github.com/MarioCarrion/grpc-microservice-example/internal/tools
 go 1.25
 
 require (
-	github.com/bufbuild/buf v1.62.1
+	github.com/bufbuild/buf v1.63.0
 	github.com/golangci/golangci-lint v1.64.8
 	github.com/google/yamlfmt v0.21.0
 	github.com/grpc-ecosystem/grpc-health-probe v0.4.41
@@ -60,7 +60,7 @@ require (
 	github.com/bombsimon/wsl/v4 v4.5.0 // indirect
 	github.com/breml/bidichk v0.3.2 // indirect
 	github.com/breml/errchkjson v0.4.0 // indirect
-	github.com/bufbuild/protocompile v0.14.2-0.20251223142729-db46c1b9d34e // indirect
+	github.com/bufbuild/protocompile v0.14.2-0.20260105175043-4d8d90b1c6b8 // indirect
 	github.com/bufbuild/protoplugin v0.0.0-20250218205857-750e09ce93e1 // indirect
 	github.com/butuzov/ireturn v0.3.1 // indirect
 	github.com/butuzov/mirror v1.3.0 // indirect
